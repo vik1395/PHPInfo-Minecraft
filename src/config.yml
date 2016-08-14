@@ -1,0 +1,8 @@
+PHP Script: http://localhost/index.php
+#link to the PHP script including the http:// tag.
+Interval: 5
+# Interval is the time in minutes before the plugin writes the Server Stats into Stats.txt. Minimum interval is 2 minutes.
+Server Name: A Minecraft Server
+#Name of this server goes here. This is used when POSTing to the webserver.
+Password: pass
+#You can use this field if you want to encrypt your php data with a password. The plugin sends the password a along with the other variables to the php server.

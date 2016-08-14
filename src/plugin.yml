@@ -1,0 +1,13 @@
+name: PHPInfo
+version: 1.2
+description: A plugin that gets the Server's TPS, Current Player Count, Free, Used and Total RAM and saves them into a Stats.txt file located in the ServerInfo folder inside the plugins folder.
+author: Vik1395
+
+main: me.vik1395.PHPInfo.Main
+
+commands:
+  sendinfo:
+    description: Sends Server status data (as GET) to PHP server.
+    aliases: [si]
+    permission: PHPInfo.sendinfo
+    usage: /sendinfo, /si
