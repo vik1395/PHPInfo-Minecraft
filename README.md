@@ -4,7 +4,7 @@ This plugin is useful for PHP/Web developers who would like to mess around with 
 
 [jeff142](https://www.spigotmc.org/members/jeff142.199/) has written a simple php page that works as an api, saving the last 15 or so data lines received from the plugin in a html page.
 
-If you like my work, please consider donating, I would greatly appreciate it. 
+If you like my work, please consider donating, I would greatly appreciate it. [![Donate!](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=vik1395lp@gmail.com&lc=US&item_name=Spigot%20Plugins&item_number=LegitPlay.net%20Plugin%20Dev&no_note=0&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest)
 
 **Commands**
 --------
